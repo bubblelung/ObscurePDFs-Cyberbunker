@@ -4,7 +4,7 @@ A collection of rare, lost, and obscure PDFs for digital preservation
 ---
 
 ## 📜 How to Download a PDF  
-🔗 Browse all PDFs in our **[Notion Database](#)**  
+🔗 Browse all PDFs in our **https://www.notion.so/19dca42762f580c3abe6da54b61878cf?v=19dca42762f580a28ede000c04b5783e&pvs=4**  
 🔗 Download PDFs directly from GitHub: Click the **"Download Link"** inside Notion
 
 ---
