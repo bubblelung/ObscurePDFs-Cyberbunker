@@ -14,8 +14,10 @@ All submissions **require approval** before they go live
 
 ### 📂 **Steps to Submit a PDF**
 
-2. **dm me or comment on the Cyberbunker thread on twitter/x @lucky_strikes_x**
-   
+**twitter/x**
+1. **dm me or comment on the Cyberbunker thread on twitter/x @lucky_strikes_x**
+
+**Github**
 1. **Fork this repository** (Click "Fork" at the top right)
 2. **Upload your PDF** to your forked repo
 3. **Submit a Pull Request (PR)** with:
